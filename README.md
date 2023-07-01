@@ -4,16 +4,9 @@ perf_Node_isArray
 ## Getting started
 
 ```
-npm i
+node isArray
 ```
 
 ```
-npm run isArray
+node instanceof
 ```
-
-```
-npm run instanceof
-```
-
-## References
-- https://nodejs.org/en/docs/guides/simple-profiling
