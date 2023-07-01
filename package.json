@@ -1,0 +1,15 @@
+{
+  "name": "perf_node_isarray",
+  "scripts": {
+    "isArray": "node isArray",
+    "instanceof": "node instanceof",
+    "lint": "standard",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "standard": "^17.1.0"
+  }
+}
